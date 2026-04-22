@@ -1,7 +1,3 @@
-<img width="569" height="663" alt="photo_1_2026-04-22_23-48-48" src="https://github.com/user-attachments/assets/eecca2d1-6601-4492-9375-b7c4d8c968ea" />
-
-ILUSION-Advanced-Reconnaissance-Framework
-
 🧠 ILUSION — Advanced Reconnaissance Framework
 
 ██╗██╗     ██╗   ██╗███████╗██╗ ██████╗ ███╗   ██╗
