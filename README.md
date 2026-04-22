@@ -67,13 +67,14 @@ sqlmap
 
 📦 Instalación
 1. Clonar repositorio
+
 git clone https://github.com/HackingTeamOficial/-ILUSION-Advanced-Reconnaissance-Framework.git
 
-cd ilusion
+1. cd ilusion
 
-3. Dar permisos
-4. 
-chmod +x illusion.py
+Dar permisos
+
+2. chmod +x illusion.py
 
 6. Instalar dependencias
 
